@@ -35,10 +35,10 @@ I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.
 - :zap: In my free time, I read technology articles, listen to songs 🎵, and think about something. :point_right::point_left: 
 
 ---
-
+<div align="center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHanifPratama&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHanifPratama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
