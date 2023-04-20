@@ -33,7 +33,7 @@
 I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.gif" width="30"> studying computer science 💻 from Indonesia <img src="https://media.giphy.com/media/ibLnzjD6OJc2bo4yxO/giphy.gif" width="30">
 - :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
 
-- :zap: In my free time, I read technology articles and think about something. :point_right::point_left: 
+- :zap: In my free time, I read technology articles, listen to songs 🎵, and think about something. :point_right::point_left: 
 
 ---
 
