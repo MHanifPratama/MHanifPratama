@@ -22,7 +22,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api" width="400" height="200"/>
+  <img src="https://readme-jokes.vercel.app/api" width="600" height="300"/>
  </div>
  
  ---
