@@ -28,7 +28,7 @@
  
  ---
  
-### :man_technologis: About Me :
+### :man_technologist: About Me :
 
 I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
