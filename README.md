@@ -25,9 +25,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
  </div>
- <div align="center">
-  :man_technologist: About Me :
-</div>
-  I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-  - :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
-  - :zap: In my free time, I read technology articles and think about something. :point_right::point_left: 
+ 
+ ---
+###:man_technologist: About Me : 
+I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
+
+- :zap: In my free time, I read technology articles and think about something. :point_right::point_left: 
+
+---
