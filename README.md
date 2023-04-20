@@ -25,6 +25,10 @@
   <img src="https://readme-jokes.vercel.app/api" width="600" height="300"/>
  </div>
  
+ <div align="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
+ </div>
+ 
  ---
  
 ### :man_technologist: About Me :
