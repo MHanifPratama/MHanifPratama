@@ -25,9 +25,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
   ### :woman_technologist: About Me :
-  I am a I am still learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ </div>
+ <div align="center">
+  I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+  - :telescope:I have interests as a software engineer, data analyst, machine learner, and in contributing to the backend to build web and mobile applications.
   - :seedling: Exploring Technical Content Writing.
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </div>
