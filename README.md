@@ -25,10 +25,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
  </div>
- ### :man_technologist: About Me :
  <div align="center">
+  ### :man_technologist: About Me :
   I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-  - :telescope:I have interests as a software engineer, data analyst, machine learner, and in contributing to the backend to build web and mobile applications.
+  - :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
   - :seedling: Exploring Technical Content Writing.
   style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </div>
