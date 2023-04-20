@@ -37,8 +37,6 @@ I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.
 
 ---
 
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHanifPratama&theme=dark&background=000000)](https://git.io/streak-stats)
 
