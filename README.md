@@ -29,6 +29,5 @@
   ### :man_technologist: About Me :
   I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
   - :telescope:I have interests as a software engineer, data analyst, and in contributing to the backend to build web and mobile applications.
-  - :seedling: Exploring Technical Content Writing.
-  style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :zap: In my free time, I read technology articles and think about something. -:point_left: 	-:point_right:
 </div>
