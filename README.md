@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">
-  Hello
+  Hello Mate
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -38,7 +38,7 @@ I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.
 
 - :zap: In my free time, I read technology articles, listen to songs 🎵, and think about something. :point_right::point_left: 
 
----
+<!-- ---
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -46,7 +46,7 @@ I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.
  </p>
 </div>
 
- ---
+ --- -->
 
 ---
 ### :fire: My Stats :
