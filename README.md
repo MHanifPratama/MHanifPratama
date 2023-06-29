@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="200"/>
 </div>
@@ -27,7 +28,7 @@
  
  <div align="center">
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
- </div>
+  </div> -->
  
  ---
  
@@ -49,12 +50,11 @@ I am a student <img src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.
  --- -->
 
 ---
-### :fire: My Stats :
+
+
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MHanifPratama&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHanifPratama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
